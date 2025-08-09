@@ -37,7 +37,7 @@ draft: false
 
 随后我们返回v2rayN软件，点击从剪贴板导入分享链接
 
-![image-20250809184626318](E:\myNote\其他\assets\image-20250809184626318.png)
+![](https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/20250809194510003.png)
 
 我们ctrl+A全选所有的链接
 
