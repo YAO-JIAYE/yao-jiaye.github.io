@@ -19,5 +19,8 @@
     "source.organizeImports.biome": "always"
   },
   "frontMatter.dashboard.openOnStart": false,
-  "Codegeex.RepoIndex": true
+  "Codegeex.RepoIndex": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
