@@ -1,6 +1,6 @@
 ---
 title: geminicli编程工具介绍
-published: 2025-07-14
+published: 2025-08-14
 description: geminicli
 image: "https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/20250813220922770.png"
 tags: [github-repo]
