@@ -4,7 +4,7 @@ published: 2025-08-23
 description: linux命令_for_Arch
 image: "https://cdn.jsdelivr.net/gh/YAO-JIAYE/my_imgs_repo@main/imgs/%E6%88%AA%E5%9B%BE%202025-08-23%2017-20-09.png"
 tags: [linux]
-category: [linux]
+category: linux
 draft: false
 ---
 
