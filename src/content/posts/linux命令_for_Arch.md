@@ -8,11 +8,6 @@ category: linux
 draft: false
 ---
 
-### **休眠**
-
-```
-systemctl hibernate
-```
 
 ### **pacman**
 
